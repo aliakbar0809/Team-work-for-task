@@ -594,6 +594,12 @@ video {
   margin-top: 50px;
 }
 
+
+.ml-\[350px\] {
+  margin-left: 350px;
+}
+
+
 .block {
   display: block;
 }
@@ -685,6 +691,15 @@ video {
 
 .w-\[50px\] {
   width: 50px;
+}
+
+
+.w-\[396px\] {
+  width: 396px;
+}
+
+.w-\[482px\] {
+  width: 482px;
 }
 
 
@@ -1036,7 +1051,16 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
 }
 
+
+.text-\[\#7EB693\] {
+  --tw-text-opacity: 1;
+  color: rgb(126 182 147 / var(--tw-text-opacity, 1));
+}
+
 @media (min-width: 640px) {
+
+@media (min-width: 640px) {
+
 
   .md\:relative {
     position: relative;
